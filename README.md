@@ -46,7 +46,7 @@ I am a passionate MERN stack developer with a deep fascination for machine learn
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I know French language😆, c'est bon isi.
+- ⚡ Fun fact: I know French language😆, bonjour.
 
 
 </td><td valign="top" width="50%">
